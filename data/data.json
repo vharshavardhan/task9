@@ -1,0 +1,46 @@
+{
+  "profiles":[
+    {
+      "id":1,
+      "name":"Samba",
+      "label":"DBA",
+      "company":"Infosys",
+      "education":[
+        {
+          "degree":"B.Tech(CSE)",
+          "institute":"PSCMR",
+          "data":["90%","2015-2019"]
+        },
+        {
+          "degree":"inter",
+          "institute":"NJC",
+          "data":["90%","2013-2015"]
+        },
+        {
+          "degree":"SSC",
+          "institute":"B.R.R.Arunodaya Concept High School",
+          "data":["90%","2012-2013"]
+        }
+      ]
+    },
+    {
+       "id":2,
+        "name":"sai Harsha",
+        "label":"Front-end",
+        "company":"Polaris"
+
+    },
+    {
+      "id":3,
+        "name":"mouni sameera",
+        "label":"DBA",
+        "company":"Infosys"
+    },
+    {
+       "id":4,
+        "name":"nikitha pavani",
+        "label":"Developer",
+        "company":"TCS"
+    }
+  ]
+}
