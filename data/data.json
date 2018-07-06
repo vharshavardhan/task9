@@ -1,29 +1,17 @@
 {
   "profiles":[
     {
+      "img":"images/image1.jpg",
+
       "id":1,
       "name":"Samba",
       "label":"DBA",
-      "company":"Infosys",
-      "education":[
-        {
-          "degree":"B.Tech(CSE)",
-          "institute":"PSCMR",
-          "data":["90%","2015-2019"]
-        },
-        {
-          "degree":"inter",
-          "institute":"NJC",
-          "data":["90%","2013-2015"]
-        },
-        {
-          "degree":"SSC",
-          "institute":"B.R.R.Arunodaya Concept High School",
-          "data":["90%","2012-2013"]
-        }
-      ]
+      "company":"Infosys"
+
     },
     {
+      "img":"images/image1.jpg",
+
        "id":2,
         "name":"sai Harsha",
         "label":"Front-end",
@@ -31,16 +19,85 @@
 
     },
     {
+      "img":"images/image1.jpg",
+
       "id":3,
         "name":"mouni sameera",
         "label":"DBA",
         "company":"Infosys"
     },
     {
+      "img":"images/image1.jpg",
        "id":4,
         "name":"nikitha pavani",
         "label":"Developer",
         "company":"TCS"
     }
+  ],
+  "career":{
+     "info":"To work in a meaningful and challenging position that allows me to develop myself as Network Administrator and have the scope for advancement."
+
+   },
+
+    "education":[
+
+      {
+        "degree":"B.Tech",
+          "institute":"PSCMR",
+          "data":["2015-2019","75%"]
+      },
+      {
+        "degree":"intermediate/diploma",
+          "institute":"njc",
+          "data":["2013-2015","75%"]
+      },
+      {
+        "degree":"ssc",
+          "institute":"B.R.R.A.C.H.S",
+          "data":["2012-2013","75%"]
+      }
+
+    ],
+    "achivements":[
+  {
+    "name":"certified by <b> IIT Bombay in C++ </b>"
+  },
+  {
+    "name":"certified by <b> IIT Bombay in JAVA </b>"
+  }
+
+  ],
+  "technical":[
+  {
+    "name":"C"
+  },
+  {
+    "name":"C++"
+  },
+  {
+    "name":"JAVA"
+  },
+  {
+    "name":"HTML"
+  },
+  {
+    "name":"DBMS"
+  },
+  {
+    "name":"PHP"
+  }
+
+  ],
+  "skills":[
+    {
+      "name":"communication skills",
+      "data":["ENG","TEL","HINDI"]
+    },
+    {
+      "name":"hobbies",
+      "data":["reading books","music"]
+    }
+
   ]
-}
+
+  }

@@ -23,7 +23,7 @@ function profileData(pro){
     mainDiv.appendChild(subDiv);
  var img=document.createElement("img");
 
- img.src="images/i.png";
+ img.src=pro[i].img;
  subDiv.appendChild(img);
     var name=document.createElement("h2");
     name.textContent=pro[i].name;
